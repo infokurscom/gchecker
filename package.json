@@ -1,0 +1,21 @@
+{
+  "name": "checker",
+  "version": "0.0",
+  "license": "",
+  "description": "",
+  "author": "",
+  "main": "google-index-checker.js",
+  "repository": {
+    "type": "",
+    "url": ""
+  },
+  "scripts": {
+    "start": "node google-index-checker.js"
+  },
+  "dependencies": {
+    "axios": "^0.20.0",
+    "chalk": "^2.4.2",
+    "csvtojson": "^2.0.8",
+    "fs": "0.0.1-security"
+  }
+}
